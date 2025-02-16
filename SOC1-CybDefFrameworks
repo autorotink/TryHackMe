@@ -1,7 +1,0 @@
-## Pyramid of Pain (from Top to Bottom!)
-- TTP: The attacker's plans and objectives.
-- Tools: The attacker has utilized these to accomplish their objective.
-- Network: These artifacts can present themselves as C2 traffic for example.
-- Domain Names: An attacker has purchased this and used it in a typo-squatting campaign.
-- IP Addresses: These addresses can be used to identify the infrastructure an attacker is using for their campaign.
-- Hashes: These signatures can be used to attribute payloads and artifacts to an actor.
